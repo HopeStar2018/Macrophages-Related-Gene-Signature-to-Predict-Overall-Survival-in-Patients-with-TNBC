@@ -1,0 +1,1248 @@
+﻿Sample_ID,AJCC_Status,Age,Gender,ER,HER2,PR,PAM50,Stage_M,Stage_N,Stage_T,Histological_type,sample_type,futime_os,fustatus_os
+TCGA-3C-AAAU-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-3C-AALI-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-3C-AALJ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-3C-AALK-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-4H-AAAK-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-5L-AAT0-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-5L-AAT1-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-5T-A9QA-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-A1-A0SB-01,Stage I,70,FEMALE,Positive,Negative,Negative,Normal,M0,N0,T1,"Other, specify",Primary Tumor,259,0
+TCGA-A1-A0SD-01,Stage IIA,59,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,437,0
+TCGA-A1-A0SE-01,Stage I,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Mixed Histology (please specify),Primary Tumor,1320,0
+TCGA-A1-A0SF-01,Stage IIA,54,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1463,0
+TCGA-A1-A0SG-01,Stage IIB,61,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,"Other, specify",Primary Tumor,433,0
+TCGA-A1-A0SH-01,Stage IIA,39,FEMALE,Negative,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1437,0
+TCGA-A1-A0SI-01,Stage IIB,52,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,634,0
+TCGA-A1-A0SJ-01,Stage IIIA,39,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,426,0
+TCGA-A1-A0SK-01,Stage IIA,54,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,"Other, specify",Primary Tumor,967,1
+TCGA-A1-A0SM-01,Stage IIA,77,MALE,Positive,Positive,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,242,0
+TCGA-A1-A0SN-01,Stage IIIA,50,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1196,0
+TCGA-A1-A0SO-01,Stage IIB,67,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,852,0
+TCGA-A1-A0SP-01,Stage IIA,40,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,583,0
+TCGA-A1-A0SQ-01,Stage IIB,45,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,553,0
+TCGA-A2-A04N-01,Stage IA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,3188,0
+TCGA-A2-A04P-01,Stage IIIC,36,FEMALE,Negative,Negative,Negative,Basal,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,547,1
+TCGA-A2-A04Q-01,Stage IA,48,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1275,0
+TCGA-A2-A04R-01,Stage IA,36,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2499,0
+TCGA-A2-A04T-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2246,0
+TCGA-A2-A04U-01,Stage IIA,47,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,670,0
+TCGA-A2-A04V-01,Stage IIA,39,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1920,1
+TCGA-A2-A04W-01,Stage IIB,50,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,"Other, specify",Primary Tumor,1948,0
+TCGA-A2-A04X-01,Stage IIA,34,FEMALE,Positive,Positive,Positive,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1686,0
+TCGA-A2-A04Y-01,Stage IIB,53,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1099,0
+TCGA-A2-A0CK-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A0CL-01,Stage IIIA,37,FEMALE,Positive,Negative,Positive,Normal,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1963,0
+TCGA-A2-A0CM-01,Stage IIA,40,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,754,1
+TCGA-A2-A0CO-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A0CP-01,Stage IA,60,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2813,0
+TCGA-A2-A0CQ-01,Stage IA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2694,0
+TCGA-A2-A0CR-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A0CS-01,Stage IV,73,FEMALE,Positive,Negative,Positive,LumA,M1,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,2298,0
+TCGA-A2-A0CT-01,Stage IIA,71,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2288,0
+TCGA-A2-A0CU-01,Stage IIA,73,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,157,1
+TCGA-A2-A0CV-01,Stage IIB,41,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1929,0
+TCGA-A2-A0CW-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1947,0
+TCGA-A2-A0CX-01,Stage IIA,52,FEMALE,Positive,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1728,0
+TCGA-A2-A0CY-01,Stage IIB,63,FEMALE,Positive,Negative,Positive,,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1673,0
+TCGA-A2-A0CZ-01,Stage IIA,46,FEMALE,Positive,Negative,Positive,Normal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1615,0
+TCGA-A2-A0D0-01,Stage IIA,60,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,643,0
+TCGA-A2-A0D1-01,Stage IIA,76,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1051,0
+TCGA-A2-A0D2-01,Stage IIB,45,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1027,0
+TCGA-A2-A0D3-01,Stage IA,42,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,875,0
+TCGA-A2-A0D4-01,Stage IIB,37,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,767,0
+TCGA-A2-A0EM-01,Stage IA,73,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,3093,0
+TCGA-A2-A0EN-01,Stage IIA,70,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,2717,0
+TCGA-A2-A0EO-01,Stage IA,54,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2441,0
+TCGA-A2-A0EP-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A0EQ-01,Stage IIA,64,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2426,0
+TCGA-A2-A0ER-01,Stage IB,63,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2262,0
+TCGA-A2-A0ES-01,Stage IIA,52,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1127,0
+TCGA-A2-A0ET-01,Stage IIIA,58,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1066,0
+TCGA-A2-A0EU-01,Stage IA,79,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1043,0
+TCGA-A2-A0EV-01,Stage IA,80,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,968,0
+TCGA-A2-A0EW-01,Stage IIIC,53,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T1,Infiltrating Lobular Carcinoma,Primary Tumor,904,0
+TCGA-A2-A0EX-01,Stage IIB,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,549,0
+TCGA-A2-A0EY-01,Stage IIB,62,FEMALE,Positive,Positive,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,735,0
+TCGA-A2-A0ST-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1643,0
+TCGA-A2-A0SU-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1661,0
+TCGA-A2-A0SV-01,Stage IV,63,FEMALE,Positive,Negative,Positive,LumB,M1,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,825,1
+TCGA-A2-A0SW-01,Stage IV,82,FEMALE,Positive,Negative,Negative,LumB,M1,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1364,1
+TCGA-A2-A0SX-01,Stage IA,48,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1288,0
+TCGA-A2-A0SY-01,Stage IIIA,62,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1347,0
+TCGA-A2-A0T0-01,Stage IIB,59,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,533,0
+TCGA-A2-A0T1-01,Stage IIIC,55,FEMALE,Negative,Positive,Negative,Her2,M0,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,520,0
+TCGA-A2-A0T2-01,Stage IV,66,FEMALE,Negative,Negative,Negative,Basal,M1,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,240,1
+TCGA-A2-A0T3-01,Stage IA,37,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,569,0
+TCGA-A2-A0T4-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,624,0
+TCGA-A2-A0T5-01,Stage IIB,39,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,531,0
+TCGA-A2-A0T6-01,Stage IIB,50,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,575,0
+TCGA-A2-A0T7-01,Stage IIA,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,631,0
+TCGA-A2-A0YC-01,Stage IIB,59,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,989,0
+TCGA-A2-A0YD-01,Stage IIB,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,769,0
+TCGA-A2-A0YE-01,Stage IIB,48,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,553,0
+TCGA-A2-A0YF-01,Stage IA,67,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,469,0
+TCGA-A2-A0YG-01,Stage IIIC,63,FEMALE,Positive,Positive,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,665,0
+TCGA-A2-A0YH-01,Stage IIIA,53,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,658,0
+TCGA-A2-A0YI-01,Stage IA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,441,0
+TCGA-A2-A0YJ-01,Stage IIIA,39,FEMALE,Positive,Negative,Negative,Basal,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,565,0
+TCGA-A2-A0YK-01,Stage IIA,61,FEMALE,Positive,Negative,Negative,Normal,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,587,0
+TCGA-A2-A0YL-01,Stage IIIA,48,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T3,Infiltrating Lobular Carcinoma,Primary Tumor,445,0
+TCGA-A2-A0YM-01,Stage IIA,67,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,964,0
+TCGA-A2-A0YT-01,Stage IIIB,56,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T4,Infiltrating Ductal Carcinoma,Primary Tumor,723,1
+TCGA-A2-A1FV-01,Stage IIB,74,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,460,0
+TCGA-A2-A1FW-01,Stage IIIA,62,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,221,0
+TCGA-A2-A1FX-01,Stage IIIA,61,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,935,0
+TCGA-A2-A1FZ-01,Stage IIA,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,409,0
+TCGA-A2-A1G0-01,Stage IIB,49,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,"Other, specify",Primary Tumor,380,0
+TCGA-A2-A1G1-01,Stage IIB,85,FEMALE,Negative,Positive,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,371,0
+TCGA-A2-A1G4-01,Stage IIIA,71,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,372,0
+TCGA-A2-A1G6-01,Stage IIIA,50,FEMALE,Negative,Negative,Negative,Normal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,132,0
+TCGA-A2-A259-01,Stage IA,70,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1285,0
+TCGA-A2-A25A-01,Stage IIA,44,FEMALE,Positive,Negative,Positive,Normal,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,2968,0
+TCGA-A2-A25B-01,Stage IIB,39,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,258,0
+TCGA-A2-A25C-01,Stage IIB,50,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,285,0
+TCGA-A2-A25D-01,Stage IIIC,90,FEMALE,Positive,Negative,Negative,LumA,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,243,0
+TCGA-A2-A25E-01,Stage IIIA,34,FEMALE,Positive,Equivocal,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2511,0
+TCGA-A2-A25F-01,Stage IIA,66,FEMALE,Negative,Negative,Positive,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,113,0
+TCGA-A2-A3KC-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A3KD-01,,,,,,,LumA,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-A2-A3XS-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XT-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XU-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XV-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XW-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XX-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XY-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3XZ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A3Y0-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A2-A4RW-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A4RX-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-A2-A4RY-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A4S0-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-A2-A4S1-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-A2-A4S2-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A2-A4S3-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A0CD-01,Stage IA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,372,0
+TCGA-A7-A0CE-01,Stage IIA,57,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,309,0
+TCGA-A7-A0CE-11,,57,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,309,0
+TCGA-A7-A0CG-01,Stage IIA,78,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,230,0
+TCGA-A7-A0CH-01,Stage IIA,79,FEMALE,,Negative,,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,232,0
+TCGA-A7-A0CH-11,,79,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,232,0
+TCGA-A7-A0CJ-01,Stage IIA,57,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,409,0
+TCGA-A7-A0D9-01,Stage IIA,37,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,272,0
+TCGA-A7-A0D9-11,,37,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,272,0
+TCGA-A7-A0DA-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,373,0
+TCGA-A7-A0DB-01,Stage IIA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,266,0
+TCGA-A7-A0DB-11,,56,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,266,0
+TCGA-A7-A0DC-01,Stage IA,63,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,386,0
+TCGA-A7-A0DC-11,,63,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,386,0
+TCGA-A7-A13D-01,Stage IIA,46,FEMALE,Negative,Negative,Positive,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,267,0
+TCGA-A7-A13E-01,Stage IIB,62,FEMALE,Positive,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,326,0
+TCGA-A7-A13E-11,,62,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,326,0
+TCGA-A7-A13F-01,Stage IIIA,44,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,387,0
+TCGA-A7-A13F-11,,44,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,387,0
+TCGA-A7-A13G-01,Stage IIA,79,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,348,0
+TCGA-A7-A13G-11,,79,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,348,0
+TCGA-A7-A13H-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A26E-01,Stage IIIA,71,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Lobular Carcinoma,Primary Tumor,421,0
+TCGA-A7-A26F-01,Stage IA,55,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,"Other, specify",Primary Tumor,257,0
+TCGA-A7-A26G-01,Stage IIA,50,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,"Other, specify",Primary Tumor,209,0
+TCGA-A7-A26H-01,Stage IIA,72,FEMALE,Positive,Positive,Negative,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,64,0
+TCGA-A7-A26I-01,Stage IIA,65,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,122,0
+TCGA-A7-A26J-01,Stage IIA,49,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,67,0
+TCGA-A7-A2KD-01,,,,,,,LumB,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A3IY-01,,,,,,,LumA,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-A7-A3IZ-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A3J0-01,,,,,,,LumA,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-A7-A3J1-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A3RF-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-A7-A425-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A426-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A4SA-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A4SA-11,,,,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-A7-A4SB-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A4SC-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A4SC-11,,,,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-A7-A4SD-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A4SD-11,,,,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,,
+TCGA-A7-A4SE-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A4SE-11,,,,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,,
+TCGA-A7-A4SF-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A56D-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A5ZV-01,,,,,,,,,,,Infiltrating Carcinoma NOS,Primary Tumor,,
+TCGA-A7-A5ZW-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A5ZX-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-A7-A6VV-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A6VW-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A6VX-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A7-A6VY-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-A8-A06N-01,Stage IIIB,66,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T4,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A06O-01,Stage I,60,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,396,0
+TCGA-A8-A06P-01,Stage IIIA,63,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,396,0
+TCGA-A8-A06Q-01,Stage IIIA,63,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,31,0
+TCGA-A8-A06R-01,Stage IIB,69,FEMALE,Positive,Equivocal,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,546,0
+TCGA-A8-A06T-01,Stage IIIA,75,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1249,0
+TCGA-A8-A06U-01,Stage IIB,80,FEMALE,Positive,Equivocal,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,882,1
+TCGA-A8-A06X-01,Stage IIB,77,FEMALE,Positive,Positive,Negative,LumB,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,943,1
+TCGA-A8-A06Y-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,791,0
+TCGA-A8-A06Z-01,Stage IIB,84,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,31,0
+TCGA-A8-A075-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,517,0
+TCGA-A8-A076-01,Stage IIA,66,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1641,0
+TCGA-A8-A079-01,Stage IIIB,69,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,274,0
+TCGA-A8-A07B-01,Stage IIA,69,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1004,0
+TCGA-A8-A07C-01,Stage IIA,57,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,580,0
+TCGA-A8-A07E-01,Stage X,81,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,608,0
+TCGA-A8-A07F-01,Stage IIB,65,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,576,0
+TCGA-A8-A07G-01,Stage IIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,576,0
+TCGA-A8-A07I-01,Stage IIIA,69,FEMALE,Positive,Positive,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,426,0
+TCGA-A8-A07J-01,Stage IIB,35,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,365,0
+TCGA-A8-A07L-01,Stage IIIA,58,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,517,0
+TCGA-A8-A07O-01,Stage IIA,51,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,304,0
+TCGA-A8-A07P-01,Stage IIB,68,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,334,0
+TCGA-A8-A07R-01,Stage IIIC,80,FEMALE,Negative,Equivocal,Negative,Basal,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,273,0
+TCGA-A8-A07S-01,Stage IIA,73,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,242,0
+TCGA-A8-A07U-01,Stage IIIA,66,FEMALE,Negative,Negative,Positive,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,303,0
+TCGA-A8-A07W-01,Stage IV,76,FEMALE,Positive,Negative,Positive,LumB,M1,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,304,0
+TCGA-A8-A07Z-01,Stage IIA,85,FEMALE,Positive,Negative,Positive,,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,853,0
+TCGA-A8-A081-01,Stage IIA,80,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A082-01,Stage IIB,58,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,549,0
+TCGA-A8-A083-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A084-01,Stage IIB,81,FEMALE,Positive,Negative,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,458,0
+TCGA-A8-A085-01,Stage IIB,44,MALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1124,0
+TCGA-A8-A086-01,Stage IIA,59,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,396,0
+TCGA-A8-A08A-01,Stage I,89,FEMALE,Positive,Negative,Positive,,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,30,0
+TCGA-A8-A08B-01,Stage IIA,52,FEMALE,Positive,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,702,0
+TCGA-A8-A08C-01,Stage IIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,607,0
+TCGA-A8-A08F-01,Stage IIIC,59,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,549,0
+TCGA-A8-A08G-01,Stage IIA,41,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,606,0
+TCGA-A8-A08H-01,Stage IIA,66,FEMALE,Positive,Positive,Positive,Normal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A08I-01,Stage IIA,53,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,365,0
+TCGA-A8-A08J-01,Stage IV,52,FEMALE,Positive,Negative,Negative,Her2,M1,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,1127,1
+TCGA-A8-A08L-01,Stage IIIA,89,FEMALE,Positive,Negative,Negative,Her2,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,304,1
+TCGA-A8-A08O-01,Stage IV,45,FEMALE,Positive,Negative,Positive,LumA,M1,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,942,0
+TCGA-A8-A08P-01,Stage IIIA,70,FEMALE,Positive,Positive,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,942,0
+TCGA-A8-A08R-01,Stage IIB,52,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,30,0
+TCGA-A8-A08S-01,Stage IIA,71,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,580,0
+TCGA-A8-A08T-01,Stage IV,64,FEMALE,Positive,Negative,Positive,LumA,M1,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2830,0
+TCGA-A8-A08X-01,Stage IIIC,43,FEMALE,Negative,Positive,Negative,Her2,M0,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,1034,0
+TCGA-A8-A08Z-01,Stage IIIB,76,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,1217,0
+TCGA-A8-A090-01,Stage IIA,74,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A091-01,Stage IIA,61,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,580,0
+TCGA-A8-A092-01,Stage IIIA,48,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,518,0
+TCGA-A8-A093-01,Stage IIA,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,545,0
+TCGA-A8-A094-01,Stage IIA,75,FEMALE,Positive,Negative,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A095-01,Stage I,45,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1276,0
+TCGA-A8-A096-01,Stage IIA,73,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A097-01,Stage IIB,65,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,365,0
+TCGA-A8-A099-01,Stage X,76,FEMALE,Positive,Positive,Positive,LumA,M0,N3,T4,Infiltrating Ductal Carcinoma,Primary Tumor,304,0
+TCGA-A8-A09A-01,Stage X,40,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,304,0
+TCGA-A8-A09B-01,Stage IIIB,58,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,365,0
+TCGA-A8-A09C-01,Stage X,69,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,31,0
+TCGA-A8-A09D-01,Stage IIB,47,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,396,0
+TCGA-A8-A09E-01,Stage IIIB,73,FEMALE,Positive,Equivocal,Positive,,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,942,0
+TCGA-A8-A09G-01,Stage IIIC,79,FEMALE,Positive,Positive,Negative,Her2,M0,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-A8-A09I-01,Stage IIA,84,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1006,0
+TCGA-A8-A09K-01,Stage IIA,68,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,911,0
+TCGA-A8-A09M-01,Stage IIIC,75,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,457,0
+TCGA-A8-A09N-01,Stage IIIC,57,FEMALE,Positive,Positive,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,31,0
+TCGA-A8-A09Q-01,Stage IIIB,83,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T4,Infiltrating Ductal Carcinoma,Primary Tumor,761,0
+TCGA-A8-A09R-01,Stage IIB,82,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,273,0
+TCGA-A8-A09T-01,Stage X,68,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,578,0
+TCGA-A8-A09V-01,Stage IIA,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,457,0
+TCGA-A8-A09W-01,Stage IIIB,70,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,30,0
+TCGA-A8-A09X-01,Stage IIIC,62,FEMALE,Negative,Negative,Negative,Her2,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,426,1
+TCGA-A8-A09Z-01,Stage IIB,83,FEMALE,Positive,Negative,Negative,,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,0,0
+TCGA-A8-A0A1-01,Stage IIA,84,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,365,0
+TCGA-A8-A0A2-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,578,0
+TCGA-A8-A0A4-01,Stage IIA,73,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,396,0
+TCGA-A8-A0A6-01,Stage IIIC,64,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,640,0
+TCGA-A8-A0A7-01,Stage IIB,57,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,30,0
+TCGA-A8-A0A9-01,Stage IIA,80,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,396,0
+TCGA-A8-A0AB-01,Stage IIA,54,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,517,0
+TCGA-A8-A0AD-01,Stage I,83,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Mixed Histology (please specify),Primary Tumor,1157,0
+TCGA-AC-A23C-01,,62,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,29,0
+TCGA-AC-A23E-01,,50,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,72,0
+TCGA-AC-A23G-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A23H-01,,90,FEMALE,Positive,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,81,0
+TCGA-AC-A23H-11,,90,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,81,0
+TCGA-AC-A2B8-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2BK-01,,,,,,,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A2BM-01,,,,,,,LumB,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A2FB-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FB-11,,,,,,,Normal,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-AC-A2FE-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FF-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FF-11,,,,,,,Normal,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-AC-A2FG-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FG-11,,,,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-AC-A2FK-01,,,,,,,Normal,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FM-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2FM-11,,,,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-AC-A2FO-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2QH-01,,,,,,,Basal,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-AC-A2QI-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A2QJ-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-AC-A3BB-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3EH-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3HN-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3OD-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3QP-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3QQ-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3TM-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3TN-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3W5-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3W6-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3W7-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3YI-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A3YJ-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-AC-A4ZE-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A5EH-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A5EI-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-AC-A5XS-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A5XU-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A62V-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A62X-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A62Y-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A6IV-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A6IW-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A6IX-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AC-A6IX-06,,,,,,,,,,,Infiltrating Lobular Carcinoma,Metastatic,,
+TCGA-AC-A6NO-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A7VB-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A7VC-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-AC-A8OP-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A8OQ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AC-A8OR-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-AC-A8OS-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AN-A03X-01,Stage IIA,74,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A03Y-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A041-01,Stage IIB,29,FEMALE,Positive,Equivocal,Negative,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,7,0
+TCGA-AN-A046-01,Stage IIA,68,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A049-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,19,0
+TCGA-AN-A04A-01,Stage IIIA,36,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,89,0
+TCGA-AN-A04C-01,Stage IIB,51,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,54,0
+TCGA-AN-A04D-01,Stage IIB,58,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,52,0
+TCGA-AN-A0AJ-01,Stage IIB,79,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,243,0
+TCGA-AN-A0AK-01,Stage IIA,76,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,223,0
+TCGA-AN-A0AL-01,Stage IIIB,41,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T4,Infiltrating Ductal Carcinoma,Primary Tumor,197,0
+TCGA-AN-A0AM-01,Stage IIA,56,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,5,0
+TCGA-AN-A0AR-01,Stage IIA,55,FEMALE,Negative,Negative,Negative,,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,9,0
+TCGA-AN-A0AS-01,Stage IIIA,70,FEMALE,Positive,Negative,Negative,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,9,0
+TCGA-AN-A0AT-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0FD-01,Stage IIA,71,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,195,0
+TCGA-AN-A0FE-01,,,,,,,,,,,,Primary Tumor,,
+TCGA-AN-A0FF-01,Stage IA,32,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,140,0
+TCGA-AN-A0FG-01,,,,,,,,,,,,Primary Tumor,,
+TCGA-AN-A0FJ-01,Stage IV,59,FEMALE,Positive,Negative,Negative,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,241,0
+TCGA-AN-A0FK-01,Stage IIIB,88,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T4,Infiltrating Ductal Carcinoma,Primary Tumor,212,0
+TCGA-AN-A0FL-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,230,0
+TCGA-AN-A0FN-01,Stage IB,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,218,0
+TCGA-AN-A0FS-01,Stage IB,55,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,191,0
+TCGA-AN-A0FT-01,Stage IIB,63,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,183,0
+TCGA-AN-A0FV-01,Stage IIA,58,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0FW-01,Stage IIIA,67,FEMALE,Positive,Negative,Indeterminate,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,11,0
+TCGA-AN-A0FX-01,Stage IIA,52,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0FY-01,Stage IB,55,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0FZ-01,Stage IIIA,45,FEMALE,Positive,Equivocal,Negative,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0G0-01,Stage IIA,56,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,16,0
+TCGA-AN-A0XL-01,Stage IIA,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XN-01,Stage IIIA,68,FEMALE,Negative,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XO-01,Stage IIIA,59,FEMALE,Positive,Negative,Negative,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,375,0
+TCGA-AN-A0XP-01,Stage IIIA,69,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,9,0
+TCGA-AN-A0XR-01,Stage IIIA,55,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XS-01,Stage IIIA,63,FEMALE,Negative,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XT-01,Stage IIIA,54,FEMALE,Positive,Negative,Negative,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XU-01,Stage IIA,54,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-AN-A0XV-01,Stage IIIA,67,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,162,0
+TCGA-AN-A0XW-01,Stage IIIA,36,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,170,0
+TCGA-AO-A03L-01,Stage IIIA,34,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,2442,0
+TCGA-AO-A03M-01,Stage IA,29,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1455,0
+TCGA-AO-A03N-01,Stage IIB,59,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1645,0
+TCGA-AO-A03O-01,Stage IIA,69,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2483,1
+TCGA-AO-A03P-01,Stage IIA,54,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2576,0
+TCGA-AO-A03R-01,Stage IIB,57,FEMALE,Positive,Negative,Positive,Normal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1707,0
+TCGA-AO-A03T-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,Normal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1187,0
+TCGA-AO-A03U-01,Stage IA,31,FEMALE,Negative,Negative,Negative,Normal,M0,N0,T1,"Other, specify",Primary Tumor,1796,1
+TCGA-AO-A03V-01,Stage IA,41,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,886,0
+TCGA-AO-A0J2-01,Stage IA,41,FEMALE,Negative,Negative,Negative,Her2,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,585,0
+TCGA-AO-A0J3-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,"Other, specify",Primary Tumor,302,0
+TCGA-AO-A0J4-01,Stage IA,41,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,294,0
+TCGA-AO-A0J5-01,Stage IV,48,FEMALE,Positive,Negative,Negative,LumA,M1,N1,T4,"Other, specify",Primary Tumor,704,0
+TCGA-AO-A0J6-01,Stage IIA,61,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,775,0
+TCGA-AO-A0J7-01,Stage IIB,71,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,"Other, specify",Primary Tumor,260,0
+TCGA-AO-A0J8-01,Stage IIA,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,277,0
+TCGA-AO-A0J9-01,Stage IIIC,61,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1255,0
+TCGA-AO-A0JA-01,Stage IIIC,36,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,346,0
+TCGA-AO-A0JB-01,Stage IIIA,50,FEMALE,Positive,Negative,Positive,,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1150,0
+TCGA-AO-A0JC-01,Stage IIA,64,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1547,0
+TCGA-AO-A0JD-01,Stage IIIA,59,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1813,0
+TCGA-AO-A0JE-01,Stage IIIA,53,FEMALE,Negative,Positive,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1965,0
+TCGA-AO-A0JF-01,Stage IIA,68,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,354,0
+TCGA-AO-A0JG-01,Stage IIIA,49,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,"Other, specify",Primary Tumor,449,0
+TCGA-AO-A0JI-01,Stage IIA,56,FEMALE,Positive,Negative,Negative,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1172,0
+TCGA-AO-A0JJ-01,Stage IIB,54,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1512,0
+TCGA-AO-A0JL-01,Stage IIIA,59,FEMALE,Negative,Negative,Negative,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1319,0
+TCGA-AO-A0JM-01,Stage IIB,40,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1826,0
+TCGA-AO-A124-01,Stage IIA,38,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,"Other, specify",Primary Tumor,3119,0
+TCGA-AO-A125-01,Stage IIA,72,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,"Other, specify",Primary Tumor,3018,0
+TCGA-AO-A126-01,Stage IIA,39,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2850,0
+TCGA-AO-A128-01,Stage IIA,61,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2877,0
+TCGA-AO-A129-01,Stage IIB,29,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2923,0
+TCGA-AO-A12A-01,Stage IIA,47,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2754,0
+TCGA-AO-A12B-01,Stage IIA,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2359,0
+TCGA-AO-A12C-01,Stage IIB,42,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1993,0
+TCGA-AO-A12D-01,Stage IIA,43,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1948,0
+TCGA-AO-A12E-01,Stage IIB,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1742,0
+TCGA-AO-A12F-01,Stage IIA,36,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1471,0
+TCGA-AO-A12G-01,Stage IIA,75,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,"Other, specify",Primary Tumor,1265,0
+TCGA-AO-A12H-01,Stage IIA,69,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,"Other, specify",Primary Tumor,862,0
+TCGA-AO-A1KO-01,Stage IIB,46,FEMALE,Positive,Negative,Positive,Normal,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,448,0
+TCGA-AO-A1KP-01,Stage IIA,77,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2513,0
+TCGA-AO-A1KQ-01,Stage IIIB,84,MALE,Positive,Negative,Positive,LumB,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,1519,0
+TCGA-AO-A1KR-01,,51,FEMALE,Negative,,Negative,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2140,0
+TCGA-AO-A1KS-01,Stage IIA,69,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,16,0
+TCGA-AO-A1KT-01,Stage IIA,78,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,541,0
+TCGA-AQ-A04H-01,Stage IIIA,61,FEMALE,Positive,Positive,Positive,LumB,,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,439,0
+TCGA-AQ-A04J-01,Stage IIA,45,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,499,0
+TCGA-AQ-A04L-01,Stage IIA,48,FEMALE,Positive,Positive,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3344,0
+TCGA-AQ-A0Y5-01,Stage IIIA,70,FEMALE,Positive,Positive,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,161,1
+TCGA-AQ-A1H2-01,Stage IIIA,84,FEMALE,Positive,Positive,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,197,0
+TCGA-AQ-A1H3-01,Stage IIIC,49,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,138,0
+TCGA-AQ-A54N-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AQ-A54O-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AQ-A7U7-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A0TP-01,Stage II,43,FEMALE,Positive,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2392,0
+TCGA-AR-A0TQ-01,Stage III,27,FEMALE,Positive,Positive,Negative,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1500,0
+TCGA-AR-A0TR-01,Stage II,68,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,160,1
+TCGA-AR-A0TS-01,Stage II,46,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1138,0
+TCGA-AR-A0TT-01,Stage III,53,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1679,0
+TCGA-AR-A0TU-01,Stage II,35,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,360,0
+TCGA-AR-A0TV-01,Stage II,66,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,904,0
+TCGA-AR-A0TW-01,Stage III,50,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,739,0
+TCGA-AR-A0TX-01,Stage II,64,FEMALE,Positive,Positive,Positive,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,15,0
+TCGA-AR-A0TY-01,Stage II,54,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1699,1
+TCGA-AR-A0TZ-01,Stage III,43,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1313,0
+TCGA-AR-A0U0-01,Stage II,73,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,8,0
+TCGA-AR-A0U1-01,Stage II,36,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,185,0
+TCGA-AR-A0U2-01,Stage III,47,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2551,1
+TCGA-AR-A0U3-01,Stage II,59,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2263,0
+TCGA-AR-A0U4-01,Stage II,54,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1627,0
+TCGA-AR-A1AH-01,Stage II,51,FEMALE,Positive,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2298,0
+TCGA-AR-A1AI-01,Stage II,47,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Medullary Carcinoma,Primary Tumor,1881,0
+TCGA-AR-A1AJ-01,Stage I,83,FEMALE,Positive,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1604,0
+TCGA-AR-A1AK-01,Stage I,70,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,1558,0
+TCGA-AR-A1AL-01,Stage III,60,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1485,0
+TCGA-AR-A1AM-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A1AN-01,Stage II,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1329,0
+TCGA-AR-A1AO-01,Stage II,47,FEMALE,Positive,Negative,Negative,Normal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1324,0
+TCGA-AR-A1AP-01,Stage I,80,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1215,0
+TCGA-AR-A1AQ-01,Stage II,49,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1309,0
+TCGA-AR-A1AR-01,Stage III,50,FEMALE,Negative,Negative,Negative,Basal,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,523,1
+TCGA-AR-A1AS-01,Stage II,54,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1242,0
+TCGA-AR-A1AT-01,Stage II,62,FEMALE,Positive,Positive,Positive,,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1272,1
+TCGA-AR-A1AU-01,Stage III,39,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1409,0
+TCGA-AR-A1AV-01,Stage II,68,MALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1295,0
+TCGA-AR-A1AW-01,Stage II,65,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1072,0
+TCGA-AR-A1AX-01,Stage I,64,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1103,0
+TCGA-AR-A1AY-01,Stage I,65,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,614,0
+TCGA-AR-A24H-01,Stage II,65,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,3333,0
+TCGA-AR-A24K-01,Stage II,46,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1548,0
+TCGA-AR-A24L-01,Stage II,26,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2221,0
+TCGA-AR-A24M-01,Stage III,38,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Mixed Histology (please specify),Primary Tumor,1990,0
+TCGA-AR-A24N-01,Stage I,54,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2074,0
+TCGA-AR-A24O-01,Stage III,43,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T3,Mixed Histology (please specify),Primary Tumor,1997,0
+TCGA-AR-A24P-01,Stage I,47,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,26,0
+TCGA-AR-A24Q-01,Stage II,49,FEMALE,Positive,Negative,Negative,Basal,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,2008,0
+TCGA-AR-A24R-01,Stage III,45,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1745,0
+TCGA-AR-A24S-01,Stage I,61,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1888,0
+TCGA-AR-A24T-01,Stage III,46,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1620,0
+TCGA-AR-A24U-01,Stage II,47,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1623,0
+TCGA-AR-A24V-01,Stage II,52,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1648,0
+TCGA-AR-A24W-01,,,,,,,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-AR-A24X-01,Stage II,52,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,1465,0
+TCGA-AR-A24Z-01,Stage II,57,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1574,0
+TCGA-AR-A250-01,Stage II,58,FEMALE,Positive,Positive,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1707,0
+TCGA-AR-A251-01,Stage III,51,FEMALE,Positive,Negative,Negative,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1373,0
+TCGA-AR-A252-01,Stage I,50,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1236,0
+TCGA-AR-A254-01,Stage III,50,FEMALE,Positive,Positive,Positive,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1212,0
+TCGA-AR-A255-01,Stage I,62,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1058,0
+TCGA-AR-A256-01,Stage II,45,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2854,1
+TCGA-AR-A2LE-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LH-01,,,,,,,Normal,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LJ-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LK-01,,,,,,,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LL-01,,,,,,,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LM-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LN-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LO-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LQ-01,,,,,,,Normal,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A2LR-01,,,,,,,Basal,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-AR-A5QM-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A5QN-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A5QP-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-AR-A5QQ-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-B6-A0I1-01,,,,,,,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-B6-A0I2-01,Stage IA,45,FEMALE,,Negative,,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,4360,0
+TCGA-B6-A0I5-01,Stage IIB,49,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,4549,0
+TCGA-B6-A0I6-01,Stage IIA,49,FEMALE,Negative,,Negative,Basal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,997,1
+TCGA-B6-A0I8-01,,46,FEMALE,,,,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,749,1
+TCGA-B6-A0I9-01,Stage IV,62,FEMALE,Indeterminate,Positive,Positive,Her2,M1,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,369,1
+TCGA-B6-A0IA-01,Stage IIA,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,"Other, specify",Primary Tumor,6718,0
+TCGA-B6-A0IB-01,Stage IV,64,FEMALE,Positive,Negative,Positive,LumB,M1,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,3941,1
+TCGA-B6-A0IC-01,,90,FEMALE,Positive,Negative,Positive,LumA,,N0,T2,"Other, specify",Primary Tumor,1542,1
+TCGA-B6-A0IE-01,,38,FEMALE,Negative,Negative,Negative,LumA,M0,N1,TX,Mixed Histology (please specify),Primary Tumor,1998,1
+TCGA-B6-A0IG-01,Stage IIB,50,FEMALE,Positive,,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,4456,1
+TCGA-B6-A0IH-01,Stage IIIA,81,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Lobular Carcinoma,Primary Tumor,3418,1
+TCGA-B6-A0IJ-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,Basal,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,5383,0
+TCGA-B6-A0IK-01,Stage IIIB,63,FEMALE,Negative,Negative,Negative,Her2,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,571,1
+TCGA-B6-A0IM-01,Stage IIB,75,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,"Other, specify",Primary Tumor,3836,0
+TCGA-B6-A0IN-01,,45,FEMALE,Positive,,Negative,LumB,,N0,T1,"Other, specify",Primary Tumor,2573,1
+TCGA-B6-A0IO-01,Stage IIA,66,FEMALE,Positive,Negative,Indeterminate,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3350,0
+TCGA-B6-A0IP-01,Stage IA,74,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,3374,0
+TCGA-B6-A0IQ-01,Stage IIIA,40,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,4284,0
+TCGA-B6-A0RE-01,,61,FEMALE,Negative,Negative,Negative,Basal,M0,N0,TX,Infiltrating Ductal Carcinoma,Primary Tumor,6434,0
+TCGA-B6-A0RG-01,Stage IIB,26,FEMALE,Negative,Negative,Negative,LumA,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,2082,0
+TCGA-B6-A0RH-01,Stage IIA,51,FEMALE,Positive,Positive,Positive,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,5748,0
+TCGA-B6-A0RI-01,Stage IIIB,44,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,7125,0
+TCGA-B6-A0RL-01,Stage IIA,60,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2469,1
+TCGA-B6-A0RM-01,,57,FEMALE,Positive,Negative,Positive,LumA,,N0,TX,Infiltrating Ductal Carcinoma,Primary Tumor,2373,1
+TCGA-B6-A0RN-01,Stage IA,60,FEMALE,Negative,Negative,Negative,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,5261,0
+TCGA-B6-A0RO-01,Stage IIIB,71,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,4928,0
+TCGA-B6-A0RP-01,Stage IIIB,73,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Mixed Histology (please specify),Primary Tumor,3126,1
+TCGA-B6-A0RQ-01,Stage IIB,68,FEMALE,Positive,Negative,Positive,Normal,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,4273,1
+TCGA-B6-A0RS-01,Stage IIA,38,FEMALE,Negative,Negative,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3062,1
+TCGA-B6-A0RT-01,Stage IIIA,39,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,2721,0
+TCGA-B6-A0RU-01,Stage IA,49,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,"Other, specify",Primary Tumor,3991,0
+TCGA-B6-A0RV-01,Stage IIIA,42,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T3,Mixed Histology (please specify),Primary Tumor,4788,0
+TCGA-B6-A0WS-01,,58,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2965,1
+TCGA-B6-A0WT-01,Stage IIB,61,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,5739,0
+TCGA-B6-A0WV-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2422,1
+TCGA-B6-A0WW-01,,58,FEMALE,Positive,Negative,Positive,LumB,,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,557,1
+TCGA-B6-A0WX-01,Stage IIIA,40,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T3,"Other, specify",Primary Tumor,653,1
+TCGA-B6-A0WY-01,Stage IIIA,40,FEMALE,Positive,Negative,Negative,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,3460,1
+TCGA-B6-A0WZ-01,Stage IIB,50,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3941,0
+TCGA-B6-A0X0-01,Stage IA,54,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,"Other, specify",Primary Tumor,3945,1
+TCGA-B6-A0X1-01,Stage IV,48,FEMALE,Negative,,Negative,Basal,M1,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,5671,0
+TCGA-B6-A0X4-01,Stage IIB,62,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,859,1
+TCGA-B6-A0X5-01,Stage IIB,61,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2097,1
+TCGA-B6-A0X7-01,,62,FEMALE,Positive,Negative,Positive,LumA,,N0,T1,Mixed Histology (please specify),Primary Tumor,1791,1
+TCGA-B6-A1KC-01,Stage IIA,67,FEMALE,Positive,,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1326,0
+TCGA-B6-A1KF-01,Stage IIB,68,FEMALE,Negative,Positive,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3088,0
+TCGA-B6-A1KI-01,Stage I,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2236,0
+TCGA-B6-A1KN-01,Stage IIIB,57,FEMALE,Negative,Positive,Negative,LumB,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,4233,0
+TCGA-B6-A2IU-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-B6-A3ZX-01,,,,,,,,,,,Mixed Histology (please specify),Primary Tumor,,
+TCGA-B6-A400-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-B6-A401-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-B6-A402-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-B6-A408-01,,,,,,,,,,,Mixed Histology (please specify),Primary Tumor,,
+TCGA-B6-A409-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-B6-A40B-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-B6-A40C-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A0AU-01,Stage IIA,45,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,746,0
+TCGA-BH-A0AU-11,,45,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,746,0
+TCGA-BH-A0AV-01,Stage I,52,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1180,0
+TCGA-BH-A0AW-01,Stage IIA,56,FEMALE,Positive,Positive,Negative,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,622,0
+TCGA-BH-A0AY-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,777,0
+TCGA-BH-A0AY-11,,62,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,777,0
+TCGA-BH-A0AZ-01,Stage IIIA,47,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,867,0
+TCGA-BH-A0AZ-11,,47,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,867,0
+TCGA-BH-A0B0-01,Stage I,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1427,0
+TCGA-BH-A0B1-01,Stage IIB,66,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1148,0
+TCGA-BH-A0B2-01,Stage I,43,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,,Primary Tumor,1242,0
+TCGA-BH-A0B2-11,,43,FEMALE,,,,Normal,,,,,Solid Tissue Normal,1242,0
+TCGA-BH-A0B3-01,Stage IIB,53,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1203,0
+TCGA-BH-A0B3-11,,53,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1203,0
+TCGA-BH-A0B4-01,Stage IIIA,65,MALE,Positive,Positive,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1191,0
+TCGA-BH-A0B5-01,Stage IIIA,40,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1471,0
+TCGA-BH-A0B5-11,,40,FEMALE,,,,LumA,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,1471,0
+TCGA-BH-A0B6-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-BH-A0B7-01,Stage IIB,42,FEMALE,Positive,Positive,Positive,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1733,0
+TCGA-BH-A0B7-11,,42,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1733,0
+TCGA-BH-A0B8-01,Stage IB,64,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1569,0
+TCGA-BH-A0B8-11,,64,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1569,0
+TCGA-BH-A0B9-01,Stage IA,44,FEMALE,Negative,Negative,Negative,,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1572,0
+TCGA-BH-A0BA-01,Stage IIIC,51,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T3,Mixed Histology (please specify),Primary Tumor,1132,0
+TCGA-BH-A0BA-11,,51,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,1132,0
+TCGA-BH-A0BC-01,Stage IIIC,60,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,974,0
+TCGA-BH-A0BC-11,,60,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,974,0
+TCGA-BH-A0BD-01,Stage IIA,47,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,554,0
+TCGA-BH-A0BF-01,Stage IIB,56,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,781,0
+TCGA-BH-A0BF-11,,56,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,781,0
+TCGA-BH-A0BG-01,Stage I,73,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,756,0
+TCGA-BH-A0BJ-01,Stage IIB,41,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,660,0
+TCGA-BH-A0BJ-11,,41,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,660,0
+TCGA-BH-A0BL-01,Stage I,35,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1339,0
+TCGA-BH-A0BL-11,,35,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1339,0
+TCGA-BH-A0BM-01,Stage IIB,54,FEMALE,Positive,Negative,Negative,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1117,0
+TCGA-BH-A0BM-11,,54,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1117,0
+TCGA-BH-A0BO-01,Stage I,54,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1085,0
+TCGA-BH-A0BO-11,,54,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1085,0
+TCGA-BH-A0BP-01,Stage I,76,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1481,0
+TCGA-BH-A0BQ-01,Stage I,39,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,826,0
+TCGA-BH-A0BQ-11,,39,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,826,0
+TCGA-BH-A0BR-01,Stage I,59,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1632,0
+TCGA-BH-A0BS-01,Stage IIIA,55,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1640,0
+TCGA-BH-A0BS-11,,55,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1640,0
+TCGA-BH-A0BT-01,Stage IIA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1386,0
+TCGA-BH-A0BT-11,,56,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1386,0
+TCGA-BH-A0BV-01,Stage IIB,78,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1519,0
+TCGA-BH-A0BV-11,,78,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1519,0
+TCGA-BH-A0BW-01,Stage I,71,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,355,0
+TCGA-BH-A0BW-11,,71,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,355,0
+TCGA-BH-A0BZ-01,Stage IIIA,59,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1492,0
+TCGA-BH-A0BZ-11,,59,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1492,0
+TCGA-BH-A0C0-01,Stage IIA,62,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1270,0
+TCGA-BH-A0C0-11,,62,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1270,0
+TCGA-BH-A0C1-01,Stage IIIA,61,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1338,0
+TCGA-BH-A0C3-01,Stage I,47,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T1,Mixed Histology (please specify),Primary Tumor,1464,0
+TCGA-BH-A0C3-11,,47,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,1464,0
+TCGA-BH-A0C7-01,Stage IIB,48,FEMALE,Positive,Positive,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1305,0
+TCGA-BH-A0DD-01,Stage IIB,58,MALE,Positive,Positive,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1393,0
+TCGA-BH-A0DD-11,,58,MALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1393,0
+TCGA-BH-A0DE-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,948,0
+TCGA-BH-A0DE-11,,62,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,948,0
+TCGA-BH-A0DG-01,Stage IIA,30,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,713,0
+TCGA-BH-A0DG-11,,30,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,713,0
+TCGA-BH-A0DH-01,Stage IIB,63,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1156,0
+TCGA-BH-A0DH-11,,63,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1156,0
+TCGA-BH-A0DI-01,Stage IIB,63,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,673,0
+TCGA-BH-A0DI-11,,63,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,673,0
+TCGA-BH-A0DK-01,Stage IIA,49,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,423,0
+TCGA-BH-A0DK-11,,49,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,423,0
+TCGA-BH-A0DL-01,Stage IIA,64,FEMALE,Positive,Negative,Negative,Basal,M0,N0,T2,"Other, specify",Primary Tumor,1467,0
+TCGA-BH-A0DL-11,,64,FEMALE,,,,Normal,,,,"Other, specify",Solid Tissue Normal,1467,0
+TCGA-BH-A0DO-01,Stage I,78,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,525,0
+TCGA-BH-A0DO-11,,78,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,525,0
+TCGA-BH-A0DP-01,Stage IIB,60,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,476,0
+TCGA-BH-A0DP-11,,60,FEMALE,,,,Normal,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,476,0
+TCGA-BH-A0DQ-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,98,0
+TCGA-BH-A0DQ-11,,42,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,98,0
+TCGA-BH-A0DS-01,Stage IIIA,71,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,77,0
+TCGA-BH-A0DT-01,Stage IIA,41,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1170,0
+TCGA-BH-A0DT-11,,41,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1170,0
+TCGA-BH-A0DV-01,Stage IIIA,54,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1374,0
+TCGA-BH-A0DV-11,,54,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1374,0
+TCGA-BH-A0DX-01,Stage I,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1442,0
+TCGA-BH-A0DZ-01,Stage IIB,43,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,495,0
+TCGA-BH-A0DZ-11,,43,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,495,0
+TCGA-BH-A0E0-01,Stage IIIC,38,FEMALE,Negative,Negative,Negative,Basal,M0,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,133,0
+TCGA-BH-A0E0-11,,38,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,133,0
+TCGA-BH-A0E1-01,Stage IIB,52,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,477,0
+TCGA-BH-A0E1-11,,52,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,477,0
+TCGA-BH-A0E2-01,Stage IIIA,49,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,435,0
+TCGA-BH-A0E6-01,Stage IA,69,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,292,0
+TCGA-BH-A0E7-01,Stage IIB,79,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1362,0
+TCGA-BH-A0E9-01,Stage IIB,53,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1405,0
+TCGA-BH-A0EA-01,Stage IIA,72,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,993,1
+TCGA-BH-A0EB-01,Stage IA,69,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,745,0
+TCGA-BH-A0EE-01,Stage IIB,68,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,943,0
+TCGA-BH-A0EI-01,Stage IIA,51,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,743,0
+TCGA-BH-A0GY-01,Stage IIA,67,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,923,0
+TCGA-BH-A0GZ-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,328,0
+TCGA-BH-A0H0-01,Stage IA,69,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,461,0
+TCGA-BH-A0H3-01,Stage I,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1149,0
+TCGA-BH-A0H5-01,Stage I,45,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1080,0
+TCGA-BH-A0H5-11,,45,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1080,0
+TCGA-BH-A0H6-01,Stage IA,82,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,747,0
+TCGA-BH-A0H7-01,Stage IIIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,701,0
+TCGA-BH-A0H7-11,,65,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,701,0
+TCGA-BH-A0H9-01,Stage IIA,69,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1247,0
+TCGA-BH-A0H9-11,,69,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1247,0
+TCGA-BH-A0HA-01,Stage I,31,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,856,0
+TCGA-BH-A0HA-11,,31,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,856,0
+TCGA-BH-A0HB-01,Stage IA,55,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,806,0
+TCGA-BH-A0HF-01,Stage IA,77,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,727,0
+TCGA-BH-A0HI-01,Stage IA,78,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,619,0
+TCGA-BH-A0HK-01,Stage IIB,81,FEMALE,Positive,Negative,Negative,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,178,0
+TCGA-BH-A0HK-11,,81,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,178,0
+TCGA-BH-A0HL-01,Stage IIB,56,FEMALE,Positive,Negative,Positive,,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,72,0
+TCGA-BH-A0HN-01,Stage IA,67,FEMALE,Positive,Negative,Positive,,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,516,0
+TCGA-BH-A0HO-01,Stage IIA,48,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,76,0
+TCGA-BH-A0HP-01,Stage IIIA,65,FEMALE,Positive,Negative,Negative,LumA,M0,N2,T3,Infiltrating Lobular Carcinoma,Primary Tumor,414,0
+TCGA-BH-A0HQ-01,Stage IIA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1121,0
+TCGA-BH-A0HU-01,Stage IA,52,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,392,0
+TCGA-BH-A0HW-01,Stage IA,62,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1560,0
+TCGA-BH-A0HX-01,Stage IIB,54,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,829,0
+TCGA-BH-A0HY-01,Stage I,60,FEMALE,Positive,,Negative,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,867,0
+TCGA-BH-A0RX-01,Stage IIA,59,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,170,0
+TCGA-BH-A0W3-01,Stage IIA,58,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,180,0
+TCGA-BH-A0W4-01,Stage IIA,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,175,0
+TCGA-BH-A0W5-01,Stage IIA,77,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,543,0
+TCGA-BH-A0W7-01,Stage IA,49,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,558,0
+TCGA-BH-A0WA-01,Stage IA,82,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,,Primary Tumor,372,0
+TCGA-BH-A18F-01,Stage IIA,50,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,268,0
+TCGA-BH-A18F-11,,50,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,268,0
+TCGA-BH-A18G-01,Stage X,81,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,61,0
+TCGA-BH-A18H-01,Stage IB,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-BH-A18I-01,Stage IIA,53,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,220,0
+TCGA-BH-A18J-01,Stage IV,56,FEMALE,Positive,Negative,Positive,LumA,M1,N2,T4,Infiltrating Ductal Carcinoma,Primary Tumor,611,1
+TCGA-BH-A18J-11,,56,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,611,1
+TCGA-BH-A18K-01,Stage I,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2762,1
+TCGA-BH-A18K-11,,46,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2762,1
+TCGA-BH-A18L-01,Stage IIB,50,FEMALE,Positive,,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,811,1
+TCGA-BH-A18L-11,,50,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,811,1
+TCGA-BH-A18M-01,Stage IIB,39,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,2207,1
+TCGA-BH-A18M-11,,39,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2207,1
+TCGA-BH-A18N-01,Stage IIA,88,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1148,1
+TCGA-BH-A18N-11,,88,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1148,1
+TCGA-BH-A18P-01,Stage I,60,FEMALE,Positive,Negative,Negative,Her2,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,921,1
+TCGA-BH-A18P-11,,60,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,921,1
+TCGA-BH-A18Q-01,Stage IIB,56,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1692,1
+TCGA-BH-A18Q-11,,56,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1692,1
+TCGA-BH-A18R-01,Stage IB,50,FEMALE,Indeterminate,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1141,1
+TCGA-BH-A18R-11,,50,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1141,1
+TCGA-BH-A18S-01,Stage I,79,FEMALE,Positive,,Positive,LumA,M0,N0,T1,Mucinous Carcinoma,Primary Tumor,2009,1
+TCGA-BH-A18S-11,,79,FEMALE,,,,Normal,,,,Mucinous Carcinoma,Solid Tissue Normal,2009,1
+TCGA-BH-A18T-01,Stage IIA,70,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,224,1
+TCGA-BH-A18U-01,Stage IIIA,72,FEMALE,Positive,Positive,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1563,1
+TCGA-BH-A18U-11,,72,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1563,1
+TCGA-BH-A18V-01,Stage IIB,48,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1555,1
+TCGA-BH-A18V-06,,48,FEMALE,,,,Basal,,,,Infiltrating Ductal Carcinoma,Metastatic,1555,1
+TCGA-BH-A18V-11,,48,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1555,1
+TCGA-BH-A1EN-01,Stage IIA,78,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2052,1
+TCGA-BH-A1EN-11,,78,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2052,1
+TCGA-BH-A1EO-01,Stage IIA,68,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Mixed Histology (please specify),Primary Tumor,2798,1
+TCGA-BH-A1EO-11,,68,FEMALE,,,,LumA,,,,Mixed Histology (please specify),Solid Tissue Normal,2798,1
+TCGA-BH-A1ES-01,Stage IIB,35,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3462,1
+TCGA-BH-A1ES-06,,35,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Metastatic,3462,1
+TCGA-BH-A1ES-11,,35,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,3462,1
+TCGA-BH-A1ET-01,Stage IIA,55,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2520,1
+TCGA-BH-A1ET-11,,55,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2520,1
+TCGA-BH-A1EU-01,Stage I,83,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1286,1
+TCGA-BH-A1EU-11,,83,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1286,1
+TCGA-BH-A1EV-01,,45,FEMALE,Positive,,Positive,Her2,,,,Infiltrating Ductal Carcinoma,Primary Tumor,365,1
+TCGA-BH-A1EV-11,,45,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,365,1
+TCGA-BH-A1EW-01,Stage IIA,38,FEMALE,Negative,Negative,Negative,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1694,1
+TCGA-BH-A1EW-11,,38,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1694,1
+TCGA-BH-A1EX-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1508,1
+TCGA-BH-A1EY-01,Stage IIA,79,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,538,1
+TCGA-BH-A1EY-11,,79,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,538,1
+TCGA-BH-A1F0-01,Stage IIA,80,FEMALE,Negative,Negative,Indeterminate,Basal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,785,1
+TCGA-BH-A1F0-11,,80,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,785,1
+TCGA-BH-A1F2-01,Stage IIIB,53,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,959,1
+TCGA-BH-A1F2-11,,53,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,959,1
+TCGA-BH-A1F5-01,,62,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2712,1
+TCGA-BH-A1F5-11,,62,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2712,1
+TCGA-BH-A1F6-01,,51,FEMALE,Negative,,Negative,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2965,1
+TCGA-BH-A1F6-11,,51,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2965,1
+TCGA-BH-A1F8-01,Stage IIIB,90,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T4,Infiltrating Ductal Carcinoma,Primary Tumor,749,1
+TCGA-BH-A1F8-11,,90,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,749,1
+TCGA-BH-A1FB-01,Stage IIB,60,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3669,1
+TCGA-BH-A1FB-11,,60,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,3669,1
+TCGA-BH-A1FC-01,Stage IIA,78,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T1,Medullary Carcinoma,Primary Tumor,3471,1
+TCGA-BH-A1FC-11,,78,FEMALE,,,,Normal,,,,Medullary Carcinoma,Solid Tissue Normal,3471,1
+TCGA-BH-A1FD-01,Stage I,68,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1008,1
+TCGA-BH-A1FD-11,,68,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1008,1
+TCGA-BH-A1FE-01,Stage IIB,31,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2273,1
+TCGA-BH-A1FE-06,,31,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Metastatic,2273,1
+TCGA-BH-A1FE-11,,31,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2273,1
+TCGA-BH-A1FG-01,Stage I,88,FEMALE,Positive,,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,3738,1
+TCGA-BH-A1FG-11,,88,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,3738,1
+TCGA-BH-A1FH-01,Stage IV,47,FEMALE,Positive,Negative,Negative,LumA,M1,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1123,1
+TCGA-BH-A1FH-11,,47,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1123,1
+TCGA-BH-A1FJ-01,Stage IIIA,66,FEMALE,Negative,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1927,1
+TCGA-BH-A1FJ-11,,66,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1927,1
+TCGA-BH-A1FL-01,Stage IIB,69,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1673,1
+TCGA-BH-A1FM-01,Stage IIIA,44,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1388,1
+TCGA-BH-A1FM-11,,44,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1388,1
+TCGA-BH-A1FN-01,Stage IIA,34,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2192,1
+TCGA-BH-A1FN-11,,34,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2192,1
+TCGA-BH-A1FR-01,Stage IIIB,73,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T4,"Other, specify",Primary Tumor,4398,1
+TCGA-BH-A1FR-11,,73,FEMALE,,,,Normal,,,,"Other, specify",Solid Tissue Normal,4398,1
+TCGA-BH-A1FU-01,Stage IA,44,FEMALE,Negative,Positive,Negative,Normal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2192,1
+TCGA-BH-A1FU-11,,44,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2192,1
+TCGA-BH-A201-01,,64,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,209,0
+TCGA-BH-A202-01,,60,FEMALE,Positive,,Positive,LumB,,,,Infiltrating Ductal Carcinoma,Primary Tumor,22,0
+TCGA-BH-A203-01,,78,FEMALE,,,,Her2,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1174,1
+TCGA-BH-A203-11,,78,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1174,1
+TCGA-BH-A204-01,,80,FEMALE,,,,LumB,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2534,1
+TCGA-BH-A204-11,,80,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2534,1
+TCGA-BH-A208-01,,48,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1759,1
+TCGA-BH-A208-11,,48,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,1759,1
+TCGA-BH-A209-01,,77,FEMALE,Positive,,Positive,LumB,,,,Medullary Carcinoma,Primary Tumor,3959,1
+TCGA-BH-A209-11,,77,FEMALE,,,,Normal,,,,Medullary Carcinoma,Solid Tissue Normal,3959,1
+TCGA-BH-A28O-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A28Q-01,,46,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,196,0
+TCGA-BH-A2L8-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A42T-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A42U-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A42V-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-BH-A5IZ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-BH-A5J0-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-BH-A6R8-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-BH-A6R9-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-BH-A8FY-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A8FZ-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-A8G0-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-BH-AB28-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-C8-A12K-01,Stage IIB,80,FEMALE,,Negative,,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12L-01,Stage IIA,67,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12M-01,Stage IIA,70,FEMALE,Positive,,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12N-01,Stage IIA,58,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12O-01,Stage IIA,50,FEMALE,Positive,,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12P-01,Stage IIB,55,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12Q-01,Stage IIIA,78,FEMALE,Negative,Positive,Negative,Her2,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12T-01,Stage IIA,43,FEMALE,Positive,Positive,Positive,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12U-01,Stage IB,46,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12V-01,Stage IIA,55,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12W-01,Stage IIIB,49,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12X-01,Stage IIB,62,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Mucinous Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12Y-01,Stage IIB,44,FEMALE,,Negative,,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A12Z-01,Stage II,45,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A130-01,Stage IIIA,52,FEMALE,Positive,Equivocal,Positive,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A131-01,Stage III,82,FEMALE,Negative,Negative,Negative,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A132-01,Stage II,56,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A133-01,Stage IIIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T3,"Other, specify",Primary Tumor,0,0
+TCGA-C8-A134-01,Stage IIA,52,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A135-01,Stage II,64,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A137-01,Stage II,34,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,3,0
+TCGA-C8-A138-01,Stage III,54,FEMALE,Positive,Positive,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,7,0
+TCGA-C8-A1HE-01,Stage IIA,59,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A1HF-01,Stage IIA,48,FEMALE,Negative,Positive,Positive,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A1HG-01,Stage IIA,50,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A1HI-01,Stage IIIA,40,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2,0
+TCGA-C8-A1HJ-01,Stage II,53,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,5,0
+TCGA-C8-A1HK-01,Stage IIB,53,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,7,0
+TCGA-C8-A1HL-01,Stage IIIA,38,FEMALE,Positive,Positive,Negative,LumB,M0,N1,T3,"Other, specify",Primary Tumor,2,0
+TCGA-C8-A1HM-01,Stage II,74,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,6,0
+TCGA-C8-A1HN-01,Stage II,56,FEMALE,Positive,Equivocal,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2,0
+TCGA-C8-A1HO-01,Stage III,34,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T3,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-C8-A26V-01,Stage III,47,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,9,0
+TCGA-C8-A26W-01,Stage II,58,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,7,0
+TCGA-C8-A26X-01,Stage II,58,FEMALE,Negative,Negative,Negative,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,11,0
+TCGA-C8-A26Y-01,Stage II,90,FEMALE,Negative,Negative,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,13,0
+TCGA-C8-A26Z-01,Stage IIA,59,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,4,0
+TCGA-C8-A273-01,Stage IIB,29,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,6,0
+TCGA-C8-A274-01,Stage IIA,63,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1,0
+TCGA-C8-A275-01,Stage IIA,56,FEMALE,,Positive,,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1,0
+TCGA-C8-A278-01,Stage IIIA,61,FEMALE,Negative,Positive,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1,0
+TCGA-C8-A27A-01,Stage IIB,48,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,371,0
+TCGA-C8-A27B-01,Stage IIB,48,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,30,0
+TCGA-C8-A3M7-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-C8-A3M8-01,,,,,,,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-C8-A8HP-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-C8-A8HQ-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-C8-A8HR-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-C8-A9FZ-01,,,,,,,,,,,Mixed Histology (please specify),Primary Tumor,,
+TCGA-D8-A13Y-01,Stage IA,52,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,362,0
+TCGA-D8-A13Z-01,Stage X,51,FEMALE,Negative,Negative,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,210,0
+TCGA-D8-A140-01,Stage IIB,62,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,403,0
+TCGA-D8-A141-01,Stage X,40,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,113,0
+TCGA-D8-A142-01,Stage IIB,74,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,425,0
+TCGA-D8-A143-01,Stage IIA,51,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,431,0
+TCGA-D8-A145-01,Stage IIA,80,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,410,0
+TCGA-D8-A146-01,Stage IIA,57,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,344,0
+TCGA-D8-A147-01,Stage X,45,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2,0
+TCGA-D8-A1J8-01,Stage IIB,77,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,256,0
+TCGA-D8-A1J9-01,Stage IA,48,FEMALE,Positive,Positive,Negative,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,248,0
+TCGA-D8-A1JA-01,Stage X,60,FEMALE,Negative,Positive,Negative,Her2,M0,N0,T4,Infiltrating Ductal Carcinoma,Primary Tumor,18,0
+TCGA-D8-A1JB-01,Stage IIB,54,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-D8-A1JC-01,Stage IIIA,59,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,178,0
+TCGA-D8-A1JD-01,Stage IIB,41,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,273,0
+TCGA-D8-A1JE-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,57,0
+TCGA-D8-A1JF-01,Stage IIIA,79,FEMALE,Negative,Negative,Negative,Her2,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,96,0
+TCGA-D8-A1JG-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,187,0
+TCGA-D8-A1JH-01,Stage IA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,426,0
+TCGA-D8-A1JI-01,Stage IIA,54,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,21,0
+TCGA-D8-A1JJ-01,Stage IIA,54,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,274,0
+TCGA-D8-A1JK-01,Stage IIA,90,FEMALE,Negative,Negative,Positive,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,109,0
+TCGA-D8-A1JL-01,Stage IIA,72,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,265,0
+TCGA-D8-A1JM-01,Stage IIB,59,FEMALE,Positive,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,238,0
+TCGA-D8-A1JN-01,Stage IIIC,80,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T3,Infiltrating Lobular Carcinoma,Primary Tumor,217,0
+TCGA-D8-A1JP-01,Stage IA,73,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,167,0
+TCGA-D8-A1JS-01,Stage IA,77,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,"Other, specify",Primary Tumor,371,0
+TCGA-D8-A1JT-01,Stage IIA,70,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,"Other, specify",Primary Tumor,405,0
+TCGA-D8-A1JU-01,Stage IA,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,447,0
+TCGA-D8-A1X5-01,Stage IIIC,81,FEMALE,Positive,Positive,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,171,0
+TCGA-D8-A1X6-01,Stage IIIA,80,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,236,0
+TCGA-D8-A1X7-01,Stage IIA,40,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,"Other, specify",Primary Tumor,85,0
+TCGA-D8-A1X8-01,Stage IIA,62,FEMALE,Positive,Negative,Indeterminate,LumA,M0,N2,T1,Infiltrating Lobular Carcinoma,Primary Tumor,272,0
+TCGA-D8-A1X9-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,380,0
+TCGA-D8-A1XA-01,Stage IA,64,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,274,0
+TCGA-D8-A1XB-01,Stage IIB,62,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,201,0
+TCGA-D8-A1XC-01,Stage IIIB,85,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T4,Mucinous Carcinoma,Primary Tumor,81,0
+TCGA-D8-A1XD-01,Stage IIIA,36,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,155,0
+TCGA-D8-A1XF-01,Stage IIA,45,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,197,0
+TCGA-D8-A1XG-01,Stage IIIB,86,FEMALE,Positive,Negative,Negative,LumA,M0,N1,T4,Infiltrating Ductal Carcinoma,Primary Tumor,196,0
+TCGA-D8-A1XJ-01,Stage IIIA,76,FEMALE,Positive,Positive,Positive,Her2,M0,N1,T3,"Other, specify",Primary Tumor,352,0
+TCGA-D8-A1XK-01,Stage IB,55,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,326,0
+TCGA-D8-A1XL-01,Stage IIB,34,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,319,0
+TCGA-D8-A1XM-01,Stage IA,57,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,218,0
+TCGA-D8-A1XO-01,Stage IIB,56,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,242,0
+TCGA-D8-A1XQ-01,Stage IIA,69,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,177,0
+TCGA-D8-A1XR-01,Stage IIB,56,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,168,0
+TCGA-D8-A1XS-01,Stage IIIC,48,MALE,Positive,Positive,Positive,LumB,M0,N3,T2,"Other, specify",Primary Tumor,18,0
+TCGA-D8-A1XT-01,Stage IIA,61,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,193,0
+TCGA-D8-A1XU-01,Stage IA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,149,0
+TCGA-D8-A1XV-01,Stage IIA,84,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Mucinous Carcinoma,Primary Tumor,146,0
+TCGA-D8-A1XW-01,Stage IIA,53,FEMALE,Negative,Negative,Positive,Normal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,117,0
+TCGA-D8-A1XY-01,Stage IIA,74,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,81,0
+TCGA-D8-A1XZ-01,Stage IIIA,81,FEMALE,Positive,Negative,Negative,LumB,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,120,0
+TCGA-D8-A1Y0-01,Stage IIIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,166,0
+TCGA-D8-A1Y1-01,Stage IIIA,80,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,115,0
+TCGA-D8-A1Y2-01,Stage IIA,71,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,72,0
+TCGA-D8-A1Y3-01,Stage IIIA,61,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,124,0
+TCGA-D8-A27E-01,Stage IA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,"Other, specify",Primary Tumor,182,0
+TCGA-D8-A27F-01,Stage IIA,40,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,227,0
+TCGA-D8-A27G-01,Stage IIA,75,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,209,0
+TCGA-D8-A27H-01,Stage IIA,72,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,140,0
+TCGA-D8-A27I-01,Stage IIIA,58,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Lobular Carcinoma,Primary Tumor,185,0
+TCGA-D8-A27K-01,Stage IIB,47,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,118,0
+TCGA-D8-A27L-01,Stage IIB,49,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,125,0
+TCGA-D8-A27M-01,Stage IIA,59,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,144,0
+TCGA-D8-A27N-01,Stage IIIA,36,FEMALE,Positive,Positive,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,145,0
+TCGA-D8-A27P-01,Stage IIA,64,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,22,0
+TCGA-D8-A27R-01,Stage IIIC,41,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,90,0
+TCGA-D8-A27T-01,Stage IIIC,53,FEMALE,Positive,Negative,Positive,LumA,M0,N3,T2,Infiltrating Lobular Carcinoma,Primary Tumor,135,0
+TCGA-D8-A27V-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,73,0
+TCGA-D8-A27W-01,Stage IIIB,55,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T4,Mucinous Carcinoma,Primary Tumor,15,0
+TCGA-D8-A3Z5-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-D8-A3Z6-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-D8-A4Z1-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-D8-A73U-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-D8-A73W-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-D8-A73X-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-E2-A105-01,Stage IIA,79,FEMALE,Positive,Equivocal,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1163,0
+TCGA-E2-A106-01,Stage IB,34,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1807,0
+TCGA-E2-A107-01,Stage IIIA,54,FEMALE,Positive,Negative,Negative,,M0,N2,T3,Infiltrating Lobular Carcinoma,Primary Tumor,1046,0
+TCGA-E2-A108-01,Stage IIIA,64,FEMALE,Positive,Negative,Positive,Normal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,837,0
+TCGA-E2-A109-01,Stage IIA,64,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1417,0
+TCGA-E2-A10A-01,Stage IIB,41,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1229,0
+TCGA-E2-A10B-01,Stage IIB,67,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1141,0
+TCGA-E2-A10C-01,Stage IIB,54,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1219,0
+TCGA-E2-A10E-01,Stage IIA,64,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,865,0
+TCGA-E2-A10F-01,Stage IIA,47,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,878,0
+TCGA-E2-A14N-01,Stage IIB,37,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1350,0
+TCGA-E2-A14O-01,Stage IIIA,76,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1172,0
+TCGA-E2-A14P-01,Stage IIIC,79,FEMALE,Negative,Positive,Negative,Her2,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,487,0
+TCGA-E2-A14Q-01,Stage IIA,50,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,974,0
+TCGA-E2-A14R-01,Stage IIA,62,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,845,0
+TCGA-E2-A14S-01,Stage I,65,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,834,0
+TCGA-E2-A14T-01,Stage IIA,52,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,890,0
+TCGA-E2-A14U-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E2-A14V-01,Stage IIB,53,FEMALE,Positive,Positive,Positive,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,748,0
+TCGA-E2-A14W-01,Stage IIA,78,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,833,0
+TCGA-E2-A14X-01,Stage IIIA,55,FEMALE,Negative,Negative,Negative,Basal,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,692,0
+TCGA-E2-A14Y-01,Stage IIA,35,FEMALE,Positive,Positive,Positive,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,688,0
+TCGA-E2-A14Y-11,,35,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,688,0
+TCGA-E2-A14Z-01,Stage I,64,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,518,0
+TCGA-E2-A150-01,Stage IIA,48,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,591,0
+TCGA-E2-A152-01,Stage I,56,FEMALE,Positive,Positive,Negative,Her2,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,588,0
+TCGA-E2-A153-01,Stage IIB,51,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,586,0
+TCGA-E2-A153-11,,51,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,586,0
+TCGA-E2-A154-01,Stage I,68,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,325,0
+TCGA-E2-A155-01,Stage IIB,58,FEMALE,Positive,Negative,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,553,0
+TCGA-E2-A156-01,Stage I,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,481,0
+TCGA-E2-A158-01,Stage IIA,43,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,450,0
+TCGA-E2-A158-11,,43,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,450,0
+TCGA-E2-A159-01,Stage IIA,50,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,515,0
+TCGA-E2-A15A-01,Stage IIIC,45,FEMALE,Positive,Negative,Positive,LumB,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,502,0
+TCGA-E2-A15A-06,,45,FEMALE,,,,LumB,,,,Infiltrating Ductal Carcinoma,Metastatic,502,0
+TCGA-E2-A15C-01,Stage I,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,496,0
+TCGA-E2-A15D-01,Stage IIA,47,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,315,0
+TCGA-E2-A15E-01,Stage IIA,40,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,517,0
+TCGA-E2-A15E-06,,40,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Metastatic,517,0
+TCGA-E2-A15F-01,Stage I,64,FEMALE,Positive,Negative,Positive,,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,468,0
+TCGA-E2-A15G-01,Stage IIA,76,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,315,0
+TCGA-E2-A15H-01,Stage IIA,38,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,42,0
+TCGA-E2-A15I-01,Stage IIA,44,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,411,0
+TCGA-E2-A15I-11,,44,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,411,0
+TCGA-E2-A15J-01,Stage I,51,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,463,0
+TCGA-E2-A15K-01,Stage IIA,58,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,34,0
+TCGA-E2-A15K-06,,58,FEMALE,,,,LumB,,,,Infiltrating Ductal Carcinoma,Metastatic,34,0
+TCGA-E2-A15K-11,,58,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,34,0
+TCGA-E2-A15L-01,Stage IIA,65,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,331,0
+TCGA-E2-A15L-11,,65,FEMALE,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,331,0
+TCGA-E2-A15M-01,Stage IIA,66,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,234,0
+TCGA-E2-A15M-11,,66,FEMALE,,,,Normal,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,234,0
+TCGA-E2-A15O-01,Stage I,89,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,395,0
+TCGA-E2-A15P-01,Stage IA,61,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,315,0
+TCGA-E2-A15R-01,Stage IIIA,64,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,330,0
+TCGA-E2-A15S-01,Stage IIB,34,FEMALE,Positive,Negative,Negative,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,274,0
+TCGA-E2-A15T-01,Stage IIA,65,FEMALE,Positive,Negative,Positive,,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,267,0
+TCGA-E2-A1AZ-01,Stage IIB,63,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1964,0
+TCGA-E2-A1B0-01,Stage IIIA,50,FEMALE,Negative,Positive,Negative,Her2,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1271,0
+TCGA-E2-A1B1-01,Stage IIB,45,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,1361,0
+TCGA-E2-A1B4-01,Stage IIIA,74,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,911,0
+TCGA-E2-A1B5-01,Stage IIA,46,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,774,0
+TCGA-E2-A1B5-11,,46,FEMALE,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,774,0
+TCGA-E2-A1B6-01,Stage IIA,44,FEMALE,Negative,Negative,Negative,,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,338,0
+TCGA-E2-A1BC-01,Stage IA,63,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,297,0
+TCGA-E2-A1BC-11,,63,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,297,0
+TCGA-E2-A1BD-01,Stage IIA,53,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,317,0
+TCGA-E2-A1IE-01,Stage IIB,61,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,983,0
+TCGA-E2-A1IF-01,Stage I,74,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,956,0
+TCGA-E2-A1IF-11,,74,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,956,0
+TCGA-E2-A1IG-01,Stage IIB,45,FEMALE,Positive,,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,755,0
+TCGA-E2-A1IG-11,,45,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,755,0
+TCGA-E2-A1IH-01,Stage I,80,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,658,0
+TCGA-E2-A1II-01,Stage I,51,FEMALE,Negative,Negative,Positive,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,850,0
+TCGA-E2-A1II-11,,51,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,850,0
+TCGA-E2-A1IJ-01,Stage I,57,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,725,0
+TCGA-E2-A1IK-01,Stage IIA,71,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,518,0
+TCGA-E2-A1IL-01,Stage IIA,78,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Lobular Carcinoma,Primary Tumor,14,0
+TCGA-E2-A1IN-01,Stage I,60,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,392,0
+TCGA-E2-A1IO-01,Stage I,37,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,448,0
+TCGA-E2-A1IO-11,,37,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,448,0
+TCGA-E2-A1IP-01,Stage IIB,42,FEMALE,Positive,Negative,Negative,Basal,M0,N1,T2,,Primary Tumor,427,0
+TCGA-E2-A1IU-01,Stage IA,60,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,127,0
+TCGA-E2-A1L6-01,Stage IIA,44,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,1312,0
+TCGA-E2-A1L7-01,Stage IIIA,40,FEMALE,Negative,Negative,Negative,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,633,0
+TCGA-E2-A1L7-11,,40,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,633,0
+TCGA-E2-A1L8-01,Stage IIA,52,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,1015,0
+TCGA-E2-A1L9-01,Stage IIB,40,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,388,0
+TCGA-E2-A1LA-01,Stage IIA,59,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,463,0
+TCGA-E2-A1LB-01,Stage IIB,41,FEMALE,Negative,Positive,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,972,0
+TCGA-E2-A1LB-11,,41,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,972,0
+TCGA-E2-A1LE-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A1LG-01,Stage IIA,50,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Lobular Carcinoma,Primary Tumor,350,0
+TCGA-E2-A1LH-01,Stage I,59,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,2875,0
+TCGA-E2-A1LH-11,,59,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2875,0
+TCGA-E2-A1LI-01,Stage IIB,57,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,2750,0
+TCGA-E2-A1LI-11,,57,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,2750,0
+TCGA-E2-A1LK-01,Stage IIIC,84,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,266,1
+TCGA-E2-A1LL-01,Stage IIIA,73,FEMALE,Negative,Negative,Negative,Basal,M0,N2,T3,Infiltrating Ductal Carcinoma,Primary Tumor,1014,0
+TCGA-E2-A1LS-01,Stage IA,46,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,239,0
+TCGA-E2-A1LS-11,,46,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,239,0
+TCGA-E2-A2P5-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E2-A2P6-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E2-A3DX-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E2-A56Z-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A570-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A572-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A573-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A574-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E2-A576-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E2-A9RU-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-E9-A1N3-01,Stage IIIA,70,FEMALE,,Negative,,LumA,M0,N2,T1,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1N4-01,Stage IIIA,41,FEMALE,Positive,Negative,Positive,LumA,M0,N2,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1N4-11,,41,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,0,0
+TCGA-E9-A1N5-01,Stage IIB,45,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1N5-11,,45,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,0,0
+TCGA-E9-A1N6-01,Stage IIB,52,FEMALE,Positive,Positive,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1N6-11,,52,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1N8-01,Stage IIA,48,FEMALE,Negative,Negative,,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1N8-11,,48,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1N9-01,Stage IIA,58,FEMALE,Negative,Negative,Positive,Basal,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1N9-11,,58,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,0,0
+TCGA-E9-A1NA-01,Stage IIA,58,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1NA-11,,58,FEMALE,,,,Normal,,,,Mixed Histology (please specify),Solid Tissue Normal,0,0
+TCGA-E9-A1NC-01,Stage IIB,61,FEMALE,Negative,Negative,Positive,,M0,N1,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1ND-01,Stage IIB,75,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1ND-11,,75,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1NE-01,Stage IIB,28,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1NE-11,,28,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1NF-01,Stage IIA,60,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1NF-11,,60,FEMALE,,,,LumA,,,,Mixed Histology (please specify),Solid Tissue Normal,0,0
+TCGA-E9-A1NG-01,Stage IIA,62,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1NG-11,,62,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1NH-01,Stage IIB,71,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1NH-11,,71,FEMALE,,,,,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,0,0
+TCGA-E9-A1NI-01,Stage IIA,51,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A1QZ-01,Stage IIA,61,FEMALE,,Negative,,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1R0-01,Stage IIA,58,FEMALE,,Negative,,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A1R2-01,Stage IIIC,51,FEMALE,Positive,Negative,Negative,LumA,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,19,0
+TCGA-E9-A1R3-01,Stage IIIC,70,FEMALE,,Negative,,LumA,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,64,0
+TCGA-E9-A1R4-01,Stage IA,66,FEMALE,,Negative,,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,29,0
+TCGA-E9-A1R5-01,Stage IA,63,FEMALE,,Negative,,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,42,0
+TCGA-E9-A1R6-01,Stage IIA,63,FEMALE,,Negative,,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,84,0
+TCGA-E9-A1R7-01,Stage IIA,64,FEMALE,,Negative,,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,34,0
+TCGA-E9-A1R7-11,,64,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,34,0
+TCGA-E9-A1RA-01,Stage IA,48,FEMALE,,Negative,,,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,29,0
+TCGA-E9-A1RB-01,Stage IIA,40,FEMALE,,Negative,,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,21,0
+TCGA-E9-A1RB-11,,40,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,21,0
+TCGA-E9-A1RC-01,Stage IIIC,56,FEMALE,,Negative,,LumA,M0,N3,T4,Mixed Histology (please specify),Primary Tumor,1228,0
+TCGA-E9-A1RC-11,,56,FEMALE,,,,LumA,,,,Mixed Histology (please specify),Solid Tissue Normal,1228,0
+TCGA-E9-A1RD-01,Stage IIA,67,FEMALE,,Negative,,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,20,0
+TCGA-E9-A1RD-11,,67,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,20,0
+TCGA-E9-A1RE-01,Stage IIIA,74,FEMALE,,Negative,,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,47,0
+TCGA-E9-A1RF-01,Stage IIIA,68,FEMALE,,Negative,,LumA,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,38,0
+TCGA-E9-A1RF-11,,68,FEMALE,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,38,0
+TCGA-E9-A1RG-01,Stage IIIA,62,FEMALE,,Negative,,,M0,N2,T1,Infiltrating Ductal Carcinoma,Primary Tumor,35,0
+TCGA-E9-A1RH-01,Stage IIA,63,FEMALE,,Negative,,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,14,0
+TCGA-E9-A1RH-11,,63,FEMALE,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,14,0
+TCGA-E9-A1RI-01,Stage IIIA,43,FEMALE,,,,LumA,M0,N2,T1,Mixed Histology (please specify),Primary Tumor,48,0
+TCGA-E9-A1RI-11,,43,FEMALE,,,,LumA,,,,Mixed Histology (please specify),Solid Tissue Normal,48,0
+TCGA-E9-A226-01,Stage IIIA,45,FEMALE,,Negative,,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,16,0
+TCGA-E9-A227-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,24,0
+TCGA-E9-A228-01,Stage IIB,58,FEMALE,,Positive,,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A229-01,Stage IA,37,FEMALE,,Negative,,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A22A-01,Stage IIA,74,FEMALE,Positive,Negative,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A22B-01,Stage IA,71,FEMALE,Positive,Negative,Negative,LumA,M0,N0,T1,Mixed Histology (please specify),Primary Tumor,0,0
+TCGA-E9-A22D-01,Stage IIA,38,FEMALE,Positive,Positive,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A22E-01,Stage IIIA,56,FEMALE,Positive,Negative,Positive,LumB,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A22G-01,Stage IIIA,47,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A22H-01,Stage IIB,42,FEMALE,Positive,Negative,Positive,LumB,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,0,0
+TCGA-E9-A243-01,Stage IIA,52,FEMALE,,Negative,,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,43,0
+TCGA-E9-A244-01,Stage IIA,54,FEMALE,,Negative,,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,20,0
+TCGA-E9-A245-01,Stage IIB,47,FEMALE,,Negative,,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,25,0
+TCGA-E9-A247-01,Stage IB,59,FEMALE,,Negative,,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,12,0
+TCGA-E9-A248-01,Stage IIA,51,FEMALE,,Negative,,Her2,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,21,0
+TCGA-E9-A249-01,Stage IIA,45,FEMALE,,Negative,,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,28,0
+TCGA-E9-A24A-01,Stage IIA,69,FEMALE,,Negative,,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,10,0
+TCGA-E9-A295-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A2JS-01,,,,,,,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A2JT-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A3HO-01,,,,,,,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A3Q9-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A3QA-01,,,,,,,,,,,Medullary Carcinoma,Primary Tumor,,
+TCGA-E9-A3X8-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A54X-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-E9-A54Y-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A5FK-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-E9-A5FL-01,,,,,,,,,,,Metaplastic Carcinoma,Primary Tumor,,
+TCGA-E9-A5UO-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-E9-A5UP-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-E9-A6HE-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-EW-A1IW-01,Stage IIB,80,FEMALE,Positive,Positive,Positive,LumA,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,252,0
+TCGA-EW-A1IX-01,Stage IIA,48,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,"Other, specify",Primary Tumor,1082,0
+TCGA-EW-A1IY-01,Stage I,38,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,258,0
+TCGA-EW-A1IZ-01,Stage IIIA,53,FEMALE,Positive,Negative,Positive,,M0,N2,T2,Infiltrating Ductal Carcinoma,Primary Tumor,260,0
+TCGA-EW-A1J1-01,Stage IIB,38,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,282,0
+TCGA-EW-A1J2-01,Stage IIB,50,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Lobular Carcinoma,Primary Tumor,139,0
+TCGA-EW-A1J3-01,Stage IA,61,FEMALE,Positive,Positive,Positive,LumA,M0,N0,T1,Infiltrating Lobular Carcinoma,Primary Tumor,252,0
+TCGA-EW-A1J5-01,Stage IIB,59,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T3,Infiltrating Lobular Carcinoma,Primary Tumor,227,0
+TCGA-EW-A1J6-01,Stage I,70,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,595,0
+TCGA-EW-A1OV-01,Stage IIB,56,FEMALE,Negative,Negative,Negative,Her2,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,522,0
+TCGA-EW-A1OW-01,Stage IIA,58,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,463,0
+TCGA-EW-A1OX-01,Stage IIA,43,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Mucinous Carcinoma,Primary Tumor,562,0
+TCGA-EW-A1OY-01,Stage IIA,63,FEMALE,Positive,Negative,Positive,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,593,0
+TCGA-EW-A1OZ-01,Stage IIA,56,FEMALE,Positive,Positive,Negative,LumB,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,941,0
+TCGA-EW-A1P0-01,Stage IIB,55,FEMALE,Positive,Negative,Negative,LumB,M0,N1,T2,"Other, specify",Primary Tumor,1121,0
+TCGA-EW-A1P1-01,Stage IIIC,68,FEMALE,Negative,Negative,Negative,,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,919,0
+TCGA-EW-A1P3-01,Stage IIA,48,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,987,0
+TCGA-EW-A1P4-01,Stage IIA,43,FEMALE,Negative,Negative,Negative,Basal,M0,N0,T2,Medullary Carcinoma,Primary Tumor,501,0
+TCGA-EW-A1P5-01,Stage IIB,77,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,365,0
+TCGA-EW-A1P6-01,Stage IIB,64,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,312,0
+TCGA-EW-A1P7-01,Stage IIA,59,FEMALE,Negative,Negative,Negative,Normal,M0,N0,T2,Infiltrating Ductal Carcinoma,Primary Tumor,635,0
+TCGA-EW-A1P8-01,Stage IIIC,58,FEMALE,Negative,Negative,Negative,Basal,M0,N3,T2,Infiltrating Ductal Carcinoma,Primary Tumor,239,1
+TCGA-EW-A1PA-01,Stage IIB,59,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T2,Infiltrating Ductal Carcinoma,Primary Tumor,267,0
+TCGA-EW-A1PB-01,Stage IIIA,70,FEMALE,Negative,Negative,Negative,Basal,M0,N1,T3,Infiltrating Ductal Carcinoma,Primary Tumor,608,0
+TCGA-EW-A1PC-01,,,,,,,LumB,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A1PD-01,Stage IIA,61,MALE,Positive,Positive,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,174,0
+TCGA-EW-A1PE-01,Stage IIA,56,FEMALE,Positive,Negative,Positive,LumA,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,139,0
+TCGA-EW-A1PF-01,Stage IA,50,FEMALE,Positive,Negative,Positive,LumA,M0,N0,T1,Infiltrating Ductal Carcinoma,Primary Tumor,139,0
+TCGA-EW-A1PG-01,Stage IIB,53,FEMALE,Positive,Negative,Positive,Normal,M0,N1,T2,Infiltrating Lobular Carcinoma,Primary Tumor,875,0
+TCGA-EW-A1PH-01,Stage IIA,52,FEMALE,Negative,,Negative,Basal,M0,N1,T1,Infiltrating Ductal Carcinoma,Primary Tumor,139,0
+TCGA-EW-A2FR-01,,,,,,,Her2,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A2FS-01,,41,FEMALE,Positive,,Negative,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1173,0
+TCGA-EW-A2FV-01,,39,FEMALE,Positive,,Positive,LumA,,,,"Other, specify",Primary Tumor,238,0
+TCGA-EW-A2FW-01,,52,FEMALE,Positive,,Positive,LumB,,,,"Other, specify",Primary Tumor,190,0
+TCGA-EW-A3E8-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-EW-A3U0-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A423-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-EW-A424-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-EW-A6S9-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A6SA-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A6SB-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-EW-A6SC-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-EW-A6SD-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-GI-A2C8-01,,,,,,,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-GI-A2C8-11,,,,,,,LumA,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,,
+TCGA-GI-A2C9-01,,,,,,,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-GI-A2C9-11,,,,,,,Normal,,,,Infiltrating Ductal Carcinoma,Solid Tissue Normal,,
+TCGA-GM-A2D9-01,,69,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1812,1
+TCGA-GM-A2DA-01,,46,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,5909,0
+TCGA-GM-A2DB-01,,62,FEMALE,Negative,,Negative,Her2,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1615,0
+TCGA-GM-A2DC-01,,57,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1628,0
+TCGA-GM-A2DD-01,,53,FEMALE,Negative,,Negative,Normal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1309,0
+TCGA-GM-A2DF-01,,53,FEMALE,Negative,,Negative,Basal,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1299,0
+TCGA-GM-A2DH-01,,58,FEMALE,Negative,,Negative,Her2,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1286,0
+TCGA-GM-A2DI-01,,52,FEMALE,Negative,,Negative,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1883,0
+TCGA-GM-A2DK-01,,58,FEMALE,Positive,,Negative,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,1896,0
+TCGA-GM-A2DL-01,,50,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2762,0
+TCGA-GM-A2DM-01,,57,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2331,0
+TCGA-GM-A2DN-01,,58,FEMALE,Positive,,Positive,LumA,,,,Infiltrating Ductal Carcinoma,Primary Tumor,2352,0
+TCGA-GM-A2DO-01,,54,FEMALE,Positive,,Positive,LumB,,,,Infiltrating Lobular Carcinoma,Primary Tumor,1622,0
+TCGA-GM-A3NW-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A3NY-01,,,,,,,LumA,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A3XG-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A3XL-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-GM-A3XN-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A4E0-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A5PV-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-GM-A5PX-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-HN-A2NL-01,,,,,,,Basal,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-HN-A2OB-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-JL-A3YW-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-JL-A3YX-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LD-A66U-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LD-A74U-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-LD-A7W5-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LD-A7W6-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-LD-A9QF-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A440-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LL-A441-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A442-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A50Y-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LL-A5YL-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LL-A5YM-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A5YN-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A5YO-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A5YP-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A6FP-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LL-A6FQ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A6FR-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A73Y-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A73Z-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A740-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A7SZ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A7T0-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A8F5-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-LL-A9Q3-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-LQ-A4E4-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-MS-A51U-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OK-A5Q2-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A5D6-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5D7-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5D8-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5DA-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A5RU-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5RV-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5RW-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5RX-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5RY-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5RZ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A5S0-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A66H-01,,,,,,,,,,,Mucinous Carcinoma,Primary Tumor,,
+TCGA-OL-A66I-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A66J-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A66K-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A66L-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A66N-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A66O-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A66P-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A6VO-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A6VQ-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-OL-A6VR-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-OL-A97C-01,,,,,,,,,,,"Other, specify",Primary Tumor,,
+TCGA-PE-A5DC-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-PE-A5DD-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-PE-A5DE-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-PL-A8LV-01,,,,,,,,,,,Medullary Carcinoma,Primary Tumor,,
+TCGA-PL-A8LX-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-PL-A8LY-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-PL-A8LZ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-A6ZF-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-A6ZG-01,,,,,,,,,,,Mixed Histology (please specify),Primary Tumor,,
+TCGA-S3-A6ZH-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA0Z-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA10-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA11-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA12-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA14-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA15-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-S3-AA17-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-UL-AAZ6-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-UU-A93S-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-V7-A7HQ-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-W8-A86G-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-WT-AB41-01,,,,,,,,,,,Infiltrating Ductal Carcinoma,Primary Tumor,,
+TCGA-WT-AB44-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-XX-A899-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-XX-A899-11,,,,,,,,,,,Infiltrating Lobular Carcinoma,Solid Tissue Normal,,
+TCGA-XX-A89A-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-Z7-A8R5-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
+TCGA-Z7-A8R6-01,,,,,,,,,,,Infiltrating Lobular Carcinoma,Primary Tumor,,
